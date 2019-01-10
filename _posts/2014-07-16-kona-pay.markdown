@@ -1,0 +1,18 @@
+---
+title: Kona Pay
+subtitle: A full featured Payment platform
+layout: default
+modal-id: 6
+date: '2014-07-16'
+img: golden.png
+thumbnail: golden-thumbnail.png
+alt: Kona Pay
+project-date: April 2014
+client: Kona I Co.
+category: Payment Gateway, Project Management, UX
+description: Kona Pay is a payment platform which has many advanced features like
+  HCE, OTP, Wallet, Loyalty etc. It is a very complex platform and built using microservice
+  based architecture. There are many technologies used, some of them are C, Java EE,
+  Oracle, Redis, Vagrant, Travis CI, AngularJS
+---
+

@@ -1,0 +1,17 @@
+---
+title: Meghdoot
+subtitle: Online Tourism Engine
+layout: default
+modal-id: 11
+date: '2014-07-14'
+img: startup-framework.png
+thumbnail: startup-framework-thumbnail.png
+alt: Meghdoot
+project-date: April 2014
+client: Sholoana Porjoton Limited
+category: Web Application Development
+description: It is a tourism platform where admin shows their tour packages, deals,
+  blogs etc. It is build using the microservices architecture. It is using Golang,
+  C, Python, PHP, VueJS, Redis, MongoDB etc
+---
+

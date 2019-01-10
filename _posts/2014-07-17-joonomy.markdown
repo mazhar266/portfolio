@@ -1,0 +1,17 @@
+---
+title: Joonomy
+subtitle: Social Job Search Engine
+layout: default
+modal-id: 3
+date: '2014-07-17'
+img: escape.png
+thumbnail: escape-thumbnail.png
+alt: Joonomy
+project-date: April 2014
+client: Steve Wong
+category: Web Application Development
+description: Joonomy is basically a social web where people can hunt for jobs and
+  talents. It has many features like Linkedin. It is built on top of PHP, JavaScript,
+  Neo4j, Apache Solr, MySQL, Java
+---
+

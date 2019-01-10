@@ -1,0 +1,17 @@
+---
+title: OMIS
+subtitle: Hospital ERP
+layout: default
+modal-id: 10
+date: '2014-07-15'
+img: roundicons.png
+thumbnail: roundicons-thumbnail.png
+alt: Online Medical Information System
+project-date: April 2014
+client: Interconnection Limited
+category: Web Application Development, Mobile Application Development
+description: OMIS is an ERP suite for the hospitals. It is built on top of Python,
+  PostgreSQL, Redis, ElasticSearch, Celery, Circle CI, CodeFactor, Java EE, ReactJS,
+  AngularJS, React Native etc.
+---
+
